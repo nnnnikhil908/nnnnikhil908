@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm Nikhil Kumar  
 
-<!--
-**nnnnikhil908/nnnnikhil908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Senior Software Engineer @ Optum | Data Engineer | AI Enthusiast  
 
-Here are some ideas to get you started:
+🚀 Currently working on:
+- Data Governance & Privacy (Microsoft Presidio, SpaCy, Faker)  
+- Anonymizing data without breaking it  
+- Building **RAG pipelines** using OpenAI modules
+- Exploring how GenAI can solve real-world Data Engineering problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning:
+- Advanced Data Engineering patterns  
+- GenAI + LLMs for real-world apps  
+
+⚡ Fun facts:
+- Writes bugs faster than QA can find them 🐞  
+---
+
+### 🔗 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/nikhil-kumar-908/) | [Portfolio (soon... 🚧)]()
